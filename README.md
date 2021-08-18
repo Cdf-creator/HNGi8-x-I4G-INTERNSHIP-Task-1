@@ -1,6 +1,7 @@
 # hng_task1
 
-A new Flutter project.
+I built a simple app that collects user input and displays the input on the screen. 
+
 
 ## Getting Started
 
