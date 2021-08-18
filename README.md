@@ -7,7 +7,7 @@ I built a simple app that collects user input and displays the input on the scre
 
 
 
-![2021-08-18 17 30 33](https://user-images.githubusercontent.com/77918485/129945636-4e1cec73-b0cb-4d94-b045-14d8203f356b.gif =250x250)
+![2021-08-18 17 30 33](https://user-images.githubusercontent.com/77918485/129945636-4e1cec73-b0cb-4d94-b045-14d8203f356b.gif)
 
 
 ## Getting Started
